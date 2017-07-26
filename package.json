@@ -2,6 +2,7 @@
   "name": "react-aspectral",
   "version": "1.0.0",
   "description": "Automatically resize React elements to a given aspect ratio",
+  "repository": "https://github.com/jacobwindsor/react-aspectral",
   "main": "index.js",
   "author": "Jacob Windsor",
   "license": "MIT",
