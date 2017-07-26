@@ -2,6 +2,8 @@
 [HOC](https://facebook.github.io/react/docs/higher-order-components.html) that causes any component to 
 dynamically resize to maintain a given aspect ratio.
 
+Based upon [react-resize-detector](https://www.npmjs.com/package/react-resize-detector).
+
 ## Installation
 `npm install react-aspectral --save`
 
